@@ -3,7 +3,7 @@
 /**
   * _printf - print formatted output
   * @format: string to indicate formats to print
-  * Return: Total chars printed, or -1 on fails
+  * Return: total chars printed, or -1 on fails
   */
 int _printf(const char *format, ...)
 {
